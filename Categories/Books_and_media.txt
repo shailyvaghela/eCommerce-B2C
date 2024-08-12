@@ -1,0 +1,10 @@
+{'id': 1, 'name': 'The Good Girls Guide to Murder', 'price': 399, 'stock': 10}
+{'id': 2, 'name': 'The royal Blood', 'price': 499, 'stock': 14}
+{'id': 3, 'name': 'Harry Potter Series', 'price': 10099, 'stock': 20}
+{'id': 4, 'name': 'The Twisted series', 'price': 995, 'stock': 8}
+{'id': 5, 'name': 'Ikigai', 'price': 699, 'stock': 12}
+{'id': 6, 'name': 'Learning ABC's', 'price': 199, 'stock': 5}
+{'id': 7, 'name': 'The Theory of Black Hole', 'price': 799, 'stock': 18}
+{'id': 8, 'name': 'Names of Animals (Kids)', 'price': 199, 'stock': 8}
+{'id': 9, 'name': 'The Kalki Trilogy', 'price': 999, 'stock': 25}
+{'id': 10, 'name': 'The Mountain is you', 'price': 799, 'stock': 30}

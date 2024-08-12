@@ -1,0 +1,14 @@
+{'id': 1, 'name': 'Petal paint Brush set(5Pcs)', 'price': 399, 'stock': 10}
+{'id': 2, 'name': 'Coloursheets printing paper', 'price': 400, 'stock': 15}
+{'id': 3, 'name': 'Drawing pencils and Sketch Kit', 'price': 199, 'stock': 20}
+{'id': 4, 'name': 'Dual tip Alcohol Marker Set', 'price': 750, 'stock': 8}
+{'id': 5, 'name': 'Metallic Marker Set', 'price': 650, 'stock': 10}
+{'id': 6, 'name': 'Chrome Watercolor Kit', 'price': 199, 'stock': 5}
+{'id': 7, 'name': 'Crinkle Siccors Set', 'price': 100, 'stock': 18}
+{'id': 8, 'name': 'Coloring book for Kids', 'price': 170, 'stock': 9}
+{'id': 9, 'name': 'Camel crayon set', 'price': 300, 'stock': 23}
+{'id': 10, 'name': 'Camel paint tubes', 'price': 450, 'stock': 30}
+{'id': 11, 'name': '3Pcs designer tapes', 'price': 199, 'stock': 40}
+{'id': 12, 'name': 'Multicolor ribbons', 'price': 299, 'stock': 17}
+{'id': 13, 'name': 'Calligraphy pens', 'price': 550, 'stock': 15}
+{'id': 14, 'name': 'Special drawing Sketchbooks', 'price': 400.0, 'stock': 25}

@@ -1,0 +1,15 @@
+{'id': 1, 'name': 'Potatoes(1kg)', 'price': 30, 'stock': 10}
+{'id': 2, 'name': 'Tomatoes(1kg)', 'price': 35, 'stock': 15}
+{'id': 3, 'name': 'Onions(1kg)', 'price': 45, 'stock': 20}
+{'id': 4, 'name': 'Cabbage(1kg)', 'price': 30, 'stock': 8}
+{'id': 5, 'name': 'Capsicum(1kg)', 'price': 32, 'stock': 12}
+{'id': 6, 'name': 'Garlic(1kg)', 'price': 60, 'stock': 5}
+{'id': 7, 'name': 'Ginger(1kg)', 'price': 70, 'stock': 18}
+{'id': 8, 'name': 'Banana(1kg)', 'price': 50, 'stock': 9}
+{'id': 9, 'name': 'Orange(1kg)', 'price': 80, 'stock': 25}
+{'id': 10, 'name': 'Strawberry(1kg)', 'price': 55, 'stock': 30}
+{'id': 11, 'name': 'Apple(1kg)', 'price': 90, 'stock': 40}
+{'id': 12, 'name': 'Mango(1kg)', 'price': 250, 'stock': 10}
+{'id': 13, 'name': 'Guava(1kg)', 'price': 65, 'stock': 14}
+{'id': 14, 'name': 'Avocado(1kg)', 'price': 300, 'stock': 25}
+{'id': 15, 'name': 'Pineapple(1kg)', 'price': 100, 'stock': 0}

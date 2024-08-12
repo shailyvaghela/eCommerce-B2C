@@ -1,0 +1,15 @@
+{'id': 1, 'name': 'Van Heusen sweater', 'price': 1599, 'stock': 1}
+{'id': 2, 'name': 'Vera Moda jacket', 'price': 1400, 'stock': 7}
+{'id': 3, 'name': 'Biba kurti set', 'price': 4995, 'stock': 16}
+{'id': 4, 'name': 'Indya kurta pant set', 'price': 1444, 'stock': 15}
+{'id': 5, 'name': 'Bewakoof oversized tee', 'price': 599, 'stock': 12}
+{'id': 6, 'name': 'The souled store marvel tee', 'price': 55490, 'stock': 15}
+{'id': 7, 'name': 'Puma t-shirt', 'price': 839, 'stock': 14}
+{'id': 8, 'name': 'Adorn good time tshirt', 'price': 55990, 'stock': 10}
+{'id': 9, 'name': 'New balance men tee', 'price': 1049, 'stock': 17}
+{'id': 10, 'name': 'Adidas black t-shirt', 'price': 1299, 'stock': 29}
+{'id': 11, 'name': 'Levi's slim fit jeans', 'price': 2344, 'stock': 39}
+{'id': 12, 'name': 'High star denim jacket', 'price': 899, 'stock': 49}
+{'id': 13, 'name': 'Reebok tracksuit', 'price': 2999, 'stock': 25}
+{'id': 14, 'name': 'Swadesi ethnic kurta', 'price': 1599, 'stock': 29}
+{'id': 15, 'name': 'Kurta', 'price': 1100, 'stock': 20}

@@ -1,0 +1,11 @@
+{'id': 1, 'name': 'Monopoly set', 'price': 2580, 'stock': 9}
+{'id': 2, 'name': 'Lego speed', 'price': 3549, 'stock': 8}
+{'id': 3, 'name': 'Dobble cards', 'price': 649, 'stock': 20}
+{'id': 4, 'name': 'Nerf gun', 'price': 899, 'stock': 7}
+{'id': 5, 'name': 'Hot wheels set of 5', 'price': 1599, 'stock': 12}
+{'id': 6, 'name': 'Catan board game', 'price': 5549, 'stock': 5}
+{'id': 7, 'name': 'Lego flower bouquet', 'price': 2899, 'stock': 16}
+{'id': 8, 'name': 'Funskool Handycrafts', 'price': 375, 'stock': 10}
+{'id': 9, 'name': 'Mechanix monster buggie', 'price': 1109, 'stock': 25}
+{'id': 10, 'name': 'Toyzone tricycle', 'price': 959, 'stock': 29}
+'

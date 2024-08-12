@@ -1,0 +1,13 @@
+{'id': 1, 'name': 'iPhone 15', 'price': 79990, 'stock': 1}
+{'id': 2, 'name': 'OnePlus 12', 'price': 64999, 'stock': 0}
+{'id': 3, 'name': 'Samsung Galaxy S24', 'price': 71450, 'stock': 0}
+{'id': 4, 'name': 'HP 15s laptop', 'price': 49990, 'stock': 7}
+{'id': 5, 'name': 'Samsung Galaxy Book2 pro', 'price': 52990, 'stock': 4}
+{'id': 6, 'name': 'Dell vostro 3510', 'price': 55490, 'stock': 3}
+{'id': 7, 'name': 'MI smart tv', 'price': 28999, 'stock': 16}
+{'id': 8, 'name': 'Sony 55 4K LED tv', 'price': 55990, 'stock': 10}
+{'id': 9, 'name': 'boAt airdopes 91', 'price': 3990, 'stock': 24}
+{'id': 10, 'name': 'Noise buds connect', 'price': 799, 'stock': 28}
+{'id': 11, 'name': 'Oneplus bullets Z2', 'price': 999, 'stock': 39}
+{'id': 12, 'name': 'Noise pulse 2 Max', 'price': 1199, 'stock': 16}
+{'id': 13, 'name': 'Fire-Boltt invincible plus', 'price': 4008, 'stock': 28}

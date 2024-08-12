@@ -1,0 +1,16 @@
+{'id': 1, 'name': 'Sleeping bags', 'price': 599, 'stock': 10}
+{'id': 2, 'name': 'Flashlights', 'price': 200, 'stock': 15}
+{'id': 3, 'name': 'Disposable bags', 'price': 50, 'stock': 20}
+{'id': 4, 'name': 'First aid box', 'price': 100, 'stock': 8}
+{'id': 5, 'name': 'Mosquito repellent', 'price': 150, 'stock': 12}
+{'id': 6, 'name': 'Shower Kit', 'price': 450, 'stock': 4}
+{'id': 7, 'name': 'Dental Kit', 'price': 500, 'stock': 18}
+{'id': 8, 'name': 'Travel Bags', 'price': 550, 'stock': 10}
+{'id': 9, 'name': 'Instant food packets', 'price': 300, 'stock': 25}
+{'id': 10, 'name': 'Cutleries', 'price': 70, 'stock': 30}
+{'id': 11, 'name': 'Tents', 'price': 800, 'stock': 40}
+{'id': 12, 'name': 'Mini dustbin for cars', 'price': 199, 'stock': 19}
+{'id': 13, 'name': 'Travel Shoes', 'price': 1299, 'stock': 15}
+{'id': 14, 'name': 'Travel Clothes', 'price': 350, 'stock': 25}
+{'id': 15, 'name': 'Travel Emergency Kit', 'price': 199, 'stock': 25}
+{'id': 16, 'name': 'Travel Bags', 'price': 1000.0, 'stock': 30}

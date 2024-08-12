@@ -1,0 +1,13 @@
+{'id': 1, 'name': 'Rose gold plated Zicron Necklace', 'price': 3999, 'stock': 10}
+{'id': 2, 'name': 'Pearl Elegance bow Necklace', 'price': 999, 'stock': 13}
+{'id': 3, 'name': '5 Pcs butterfly Necklace', 'price': 1999, 'stock': 20}
+{'id': 4, 'name': 'Gold plated Crystal Bracelets', 'price': 1995, 'stock': 8}
+{'id': 5, 'name': '12 Pcs black colour bangle set', 'price': 699, 'stock': 12}
+{'id': 6, 'name': '18k Silver Bracelets', 'price': 15599, 'stock': 5}
+{'id': 7, 'name': 'Traditional earring set(4Pcs)', 'price': 999, 'stock': 18}
+{'id': 8, 'name': 'White Pearl earring set', 'price': 16999, 'stock': 10}
+{'id': 9, 'name': 'Heart shaped red stoned earrings', 'price': 5999, 'stock': 25}
+{'id': 10, 'name': 'Rose Gold earrings', 'price': 26999, 'stock': 30}
+{'id': 11, 'name': 'Gold plated jewellery set', 'price': 19999, 'stock': 40}
+{'id': 12, 'name': 'Silver plated jewellery set', 'price': 59999, 'stock': 20}
+{'id': 13, 'name': 'Gold Chains', 'price': 600.0, 'stock': 25}

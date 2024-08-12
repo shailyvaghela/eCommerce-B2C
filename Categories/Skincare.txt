@@ -1,0 +1,17 @@
+{'id': 1, 'name': 'Dot & key face wash', 'price': 249, 'stock': 5}
+{'id': 2, 'name': 'Cetaphil cleanser', 'price': 295, 'stock': 13}
+{'id': 3, 'name': 'Minimalist acne face wash', 'price': 359, 'stock': 20}
+{'id': 4, 'name': 'Himalaya neem face wash', 'price': 425, 'stock': 8}
+{'id': 5, 'name': 'Garnier vitamin c gel', 'price': 224, 'stock': 10}
+{'id': 6, 'name': 'Mamaearth face scrub', 'price': 259, 'stock': 5}
+{'id': 7, 'name': 'Biotique exfoliating scrub', 'price': 200, 'stock': 18}
+{'id': 8, 'name': 'Ponds charcoal face wash', 'price': 204, 'stock': 10}
+{'id': 9, 'name': 'The derma gel face cream', 'price': 256, 'stock': 25}
+{'id': 10, 'name': 'Nivea men cleanser', 'price': 186, 'stock': 29}
+{'id': 11, 'name': 'Plum green tea toner', 'price': 249, 'stock': 39}
+{'id': 12, 'name': 'Nivea original lip balm', 'price': 199, 'stock': 19}
+{'id': 13, 'name': 'Plum hemp face oil', 'price': 499, 'stock': 15}
+{'id': 14, 'name': 'Vaseline petroleum jelly', 'price': 108, 'stock': 20}
+{'id': 15, 'name': 'Plum cica sunscreen', 'price': 375, 'stock': 23}
+{'id': 16, 'name': 'Sunscreen', 'price': 500.0, 'stock': 20}
+{'id': 17, 'name': 'Lip balm', 'price': 500.0, 'stock': 2}

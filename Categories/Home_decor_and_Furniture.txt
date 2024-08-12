@@ -1,0 +1,15 @@
+{'id': 1, 'name': 'Huesland bedsheet', 'price': 619, 'stock': 10}
+{'id': 2, 'name': 'Stitchnest cushion cover', 'price': 599, 'stock': 14}
+{'id': 3, 'name': 'My armor pillow set', 'price': 799, 'stock': 17}
+{'id': 4, 'name': 'Nayasa organiser', 'price': 359, 'stock': 8}
+{'id': 5, 'name': 'Prettycrafts basket set', 'price': 345, 'stock': 10}
+{'id': 6, 'name': 'Homecenter sofa set', 'price': 14999, 'stock': 5}
+{'id': 7, 'name': 'Seepyhead couch', 'price': 24199, 'stock': 18}
+{'id': 8, 'name': 'Joyful storage drawer', 'price': 1499, 'stock': 10}
+{'id': 9, 'name': 'Greensoul office chair', 'price': 8599, 'stock': 25}
+{'id': 10, 'name': 'Cellbell study chair set', 'price': 3599, 'stock': 30}
+{'id': 11, 'name': 'The sleep company mattress', 'price': 21459, 'stock': 40}
+{'id': 12, 'name': 'Wakefit memoryfoam mattress', 'price': 11099, 'stock': 20}
+{'id': 13, 'name': 'Nautica wall clock', 'price': 1699, 'stock': 14}
+{'id': 14, 'name': 'Furnish crafted wall piece', 'price': 4785, 'stock': 20}
+{'id': 15, 'name': 'Elegant arts frame set', 'price': 2999, 'stock': 25}
